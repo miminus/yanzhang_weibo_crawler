@@ -1,0 +1,474 @@
+<ul abp="405" class="cnfList" node-type="userListBox">
+ <li abp="406" action-data="uid=1195354434&amp;fnick=林俊杰&amp;sex=m" action-type="itemClick" class="clearfix S_line1">
+  <div abp="407" class="left">
+   <div abp="408" class="face mbspace">
+    <a abp="409" href="http://weibo.com/jjlin" target="_blank" title="林俊杰">
+     <img abp="410" alt="林俊杰" height="50" src="http://tp3.sinaimg.cn/1195354434/50/40048181560/1" usercard="id=1195354434" width="50">
+     </img>
+    </a>
+   </div>
+   <div abp="411" class="stat mbspace">
+    <a abp="412" action-data="uid=1195354434&amp;nick=林俊杰" action-type="webim.conversation" class="W_btn_c" href="javascript:;">
+     <span abp="413">
+      <i abp="414" class="W_chat_stat W_chat_stat_online">
+      </i>
+      聊天
+     </span>
+    </a>
+   </div>
+  </div>
+  <div abp="415" class="con">
+   <div abp="416" class="con_right">
+    <div abp="417" class="addbtn mbspace" node-type="followBtnBox">
+     <span abp="418" action-data="uid=1195354434&amp;fnick=林俊杰&amp;f=1" action-type="unfollow_useless" class="W_btn_c W_btn_no_curser">
+      <span abp="419">
+       <em abp="420" class="W_ico12 icon_addone">
+       </em>
+       已关注
+      </span>
+     </span>
+    </div>
+    <div abp="421" class="txt">
+     <a abp="422" href="javascript:void(0);" onclick="javascript:window.open('http://service.account.weibo.com/reportspam?rid=1195354434&amp;from=10106&amp;type=3&amp;url=%2F3242159070%2Ffollow&amp;bottomnav=1&amp;wvr=5', 'newwindow', 'height=700, width=550, toolbar =yes, menubar=no, scrollbars=yes, resizable=yes, location=no, status=no');">
+      举报
+     </a>
+    </div>
+   </div>
+   <div abp="423" class="con_left">
+    <div abp="424" class="name">
+     <a abp="425" class="W_f14 S_func1" href="http://weibo.com/jjlin" target="_blank" usercard="id=1195354434">
+      林俊杰
+     </a>
+     <a abp="426" href="http://verified.weibo.com/verify" target="_blank">
+      <i abp="427" class="W_ico16 approve" title="微博个人认证 ">
+      </i>
+     </a>
+     <a abp="428" action-type="ignore_list" href="http://vip.weibo.com/personal?from=main" target="_blank" title="微博会员">
+      <i abp="429" class="W_ico16 ico_member6">
+      </i>
+     </a>
+     <span abp="430" class="addr">
+      <em abp="431" class="W_ico12 male">
+      </em>
+      台湾 台北市
+     </span>
+    </div>
+    <div abp="432" class="connect">
+     关注
+     <a abp="433" href="http://weibo.com/1195354434/follow" target="_blank">
+      355
+     </a>
+     <i abp="434" class="W_vline S_line1_c">
+      |
+     </i>
+     粉丝
+     <a abp="435" href="http://weibo.com/1195354434/fans" target="_blank">
+      23669171
+     </a>
+     <i abp="436" class="W_vline S_line1_c">
+      |
+     </i>
+     微博
+     <a abp="437" href="http://weibo.com/jjlin" target="_blank">
+      3507
+     </a>
+    </div>
+    <div abp="438" class="info">
+     简介：我是音乐狂人，生活追求者，艺术梦想家
+    </div>
+    <div abp="439" class="weibo">
+     <a abp="440" class="S_link2" href="http://weibo.com/jjlin">
+      終於到廣州了！明天雪碧見面會見！！(49分钟前)
+     </a>
+    </div>
+    <div abp="441" class="from W_textb">
+     通过
+     <a abp="442" class="S_link2" href="http://app.weibo.com/t/feed/6qkJ1g">
+      新手引导
+     </a>
+     关注
+    </div>
+   </div>
+  </div>
+ </li>
+ <li abp="443" action-data="uid=1793285524&amp;fnick=王力宏&amp;sex=m" action-type="itemClick" class="clearfix S_line1">
+  <div abp="444" class="left">
+   <div abp="445" class="face mbspace">
+    <a abp="446" href="http://weibo.com/leehom" target="_blank" title="王力宏">
+     <img abp="447" alt="王力宏" height="50" src="http://tp1.sinaimg.cn/1793285524/50/40057483265/1" usercard="id=1793285524" width="50">
+     </img>
+    </a>
+   </div>
+   <div abp="448" class="stat mbspace">
+    <a abp="449" action-data="uid=1793285524&amp;nick=王力宏" action-type="webim.conversation" class="W_btn_c" href="javascript:;">
+     <span abp="450">
+      <i abp="451" class="W_chat_stat W_chat_stat_offline">
+      </i>
+      私信
+     </span>
+    </a>
+   </div>
+  </div>
+  <div abp="452" class="con">
+   <div abp="453" class="con_right">
+    <div abp="454" class="addbtn mbspace" node-type="followBtnBox">
+     <span abp="455" action-data="uid=1793285524&amp;fnick=王力宏&amp;f=1" action-type="unfollow_useless" class="W_btn_c W_btn_no_curser">
+      <span abp="456">
+       <em abp="457" class="W_ico12 icon_addone">
+       </em>
+       已关注
+      </span>
+     </span>
+    </div>
+    <div abp="458" class="txt">
+     <a abp="459" href="javascript:void(0);" onclick="javascript:window.open('http://service.account.weibo.com/reportspam?rid=1793285524&amp;from=10106&amp;type=3&amp;url=%2F3242159070%2Ffollow&amp;bottomnav=1&amp;wvr=5', 'newwindow', 'height=700, width=550, toolbar =yes, menubar=no, scrollbars=yes, resizable=yes, location=no, status=no');">
+      举报
+     </a>
+    </div>
+   </div>
+   <div abp="460" class="con_left">
+    <div abp="461" class="name">
+     <a abp="462" class="W_f14 S_func1" href="http://weibo.com/leehom" target="_blank" usercard="id=1793285524">
+      王力宏
+     </a>
+     <a abp="463" href="http://verified.weibo.com/verify" target="_blank">
+      <i abp="464" class="W_ico16 approve" title="微博个人认证 ">
+      </i>
+     </a>
+     <a abp="465" action-type="ignore_list" href="http://vip.weibo.com/personal?from=main" target="_blank" title="微博会员">
+      <i abp="466" class="W_ico16 ico_member5">
+      </i>
+     </a>
+     <span abp="467" class="addr">
+      <em abp="468" class="W_ico12 male">
+      </em>
+      台湾 台北市
+     </span>
+    </div>
+    <div abp="469" class="connect">
+     关注
+     <a abp="470" href="http://weibo.com/1793285524/follow" target="_blank">
+      52
+     </a>
+     <i abp="471" class="W_vline S_line1_c">
+      |
+     </i>
+     粉丝
+     <a abp="472" href="http://weibo.com/1793285524/fans" target="_blank">
+      47410410
+     </a>
+     <i abp="473" class="W_vline S_line1_c">
+      |
+     </i>
+     微博
+     <a abp="474" href="http://weibo.com/leehom" target="_blank">
+      1500
+     </a>
+    </div>
+    <div abp="475" class="weibo">
+     <a abp="476" class="S_link2" href="http://weibo.com/leehom">
+      明天一大早就要出發了，大家也早點睡覺！馬來西亞見
+      <img abp="477" alt="[呵呵]" render="ext" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/ac/smilea_org.gif" title="[呵呵]" type="face">
+       (9月5日 01:21)
+      </img>
+     </a>
+    </div>
+    <div abp="478" class="from W_textb">
+     通过
+     <a abp="479" class="S_link2" href="http://app.weibo.com/t/feed/6qkJ1g">
+      新手引导
+     </a>
+     关注
+    </div>
+   </div>
+  </div>
+ </li>
+ <li abp="480" action-data="uid=1223762662&amp;fnick=林心如&amp;sex=f" action-type="itemClick" class="clearfix S_line1">
+  <div abp="481" class="left">
+   <div abp="482" class="face mbspace">
+    <a abp="483" href="http://weibo.com/linxinru" target="_blank" title="林心如">
+     <img abp="484" alt="林心如" height="50" src="http://tp3.sinaimg.cn/1223762662/50/5704554400/0" usercard="id=1223762662" width="50">
+     </img>
+    </a>
+   </div>
+   <div abp="485" class="stat mbspace">
+    <a abp="486" action-data="uid=1223762662&amp;nick=林心如" action-type="webim.conversation" class="W_btn_c" href="javascript:;">
+     <span abp="487">
+      <i abp="488" class="W_chat_stat W_chat_stat_offline">
+      </i>
+      私信
+     </span>
+    </a>
+   </div>
+  </div>
+  <div abp="489" class="con">
+   <div abp="490" class="con_right">
+    <div abp="491" class="addbtn mbspace" node-type="followBtnBox">
+     <span abp="492" action-data="uid=1223762662&amp;fnick=林心如&amp;f=1" action-type="unfollow_useless" class="W_btn_c W_btn_no_curser">
+      <span abp="493">
+       <em abp="494" class="W_ico12 icon_addone">
+       </em>
+       已关注
+      </span>
+     </span>
+    </div>
+    <div abp="495" class="txt">
+     <a abp="496" href="javascript:void(0);" onclick="javascript:window.open('http://service.account.weibo.com/reportspam?rid=1223762662&amp;from=10106&amp;type=3&amp;url=%2F3242159070%2Ffollow&amp;bottomnav=1&amp;wvr=5', 'newwindow', 'height=700, width=550, toolbar =yes, menubar=no, scrollbars=yes, resizable=yes, location=no, status=no');">
+      举报
+     </a>
+    </div>
+   </div>
+   <div abp="497" class="con_left">
+    <div abp="498" class="name">
+     <a abp="499" class="W_f14 S_func1" href="http://weibo.com/linxinru" target="_blank" usercard="id=1223762662">
+      林心如
+     </a>
+     <a abp="500" href="http://verified.weibo.com/verify" target="_blank">
+      <i abp="501" class="W_ico16 approve" title="微博个人认证 ">
+      </i>
+     </a>
+     <a abp="502" action-type="ignore_list" href="http://vip.weibo.com/personal?from=main" target="_blank" title="微博会员">
+      <i abp="503" class="W_ico16 ico_member6">
+      </i>
+     </a>
+     <span abp="504" class="addr">
+      <em abp="505" class="W_ico12 female">
+      </em>
+      台湾
+     </span>
+    </div>
+    <div abp="506" class="connect">
+     关注
+     <a abp="507" href="http://weibo.com/1223762662/follow" target="_blank">
+      215
+     </a>
+     <i abp="508" class="W_vline S_line1_c">
+      |
+     </i>
+     粉丝
+     <a abp="509" href="http://weibo.com/1223762662/fans" target="_blank">
+      58163153
+     </a>
+     <i abp="510" class="W_vline S_line1_c">
+      |
+     </i>
+     微博
+     <a abp="511" href="http://weibo.com/linxinru" target="_blank">
+      5971
+     </a>
+    </div>
+    <div abp="512" class="info">
+     简介：工作聯繫~lisa谭小姐 tanlisa0829@gmail.com
+    </div>
+    <div abp="513" class="weibo">
+     <a abp="514" class="S_link2" href="http://weibo.com/linxinru">
+      向前走是一切的力量~go(9月4日 23:03)
+     </a>
+    </div>
+    <div abp="515" class="from W_textb">
+     通过
+     <a abp="516" class="S_link2" href="http://app.weibo.com/t/feed/6qkJ1g">
+      新手引导
+     </a>
+     关注
+    </div>
+   </div>
+  </div>
+ </li>
+ <li abp="517" action-data="uid=1707679453&amp;fnick=方大同&amp;sex=m" action-type="itemClick" class="clearfix S_line1">
+  <div abp="518" class="left">
+   <div abp="519" class="face mbspace">
+    <a abp="520" href="http://weibo.com/u/1707679453" target="_blank" title="方大同">
+     <img abp="521" alt="方大同" height="50" src="http://tp2.sinaimg.cn/1707679453/50/5692280232/1" usercard="id=1707679453" width="50">
+     </img>
+    </a>
+   </div>
+   <div abp="522" class="stat mbspace">
+    <a abp="523" action-data="uid=1707679453&amp;nick=方大同" action-type="webim.conversation" class="W_btn_c" href="javascript:;">
+     <span abp="524">
+      <i abp="525" class="W_chat_stat W_chat_stat_offline">
+      </i>
+      私信
+     </span>
+    </a>
+   </div>
+  </div>
+  <div abp="526" class="con">
+   <div abp="527" class="con_right">
+    <div abp="528" class="addbtn mbspace" node-type="followBtnBox">
+     <a abp="529" action-data="refer_sort=followlist&amp;refer_flag=followlist&amp;uid=1707679453&amp;fnick=方大同&amp;f=1" action-type="follow" class="W_btn_b" href="javascript:;">
+      <span abp="530">
+       <em abp="531" class="addicon">
+        +
+       </em>
+       关注
+      </span>
+     </a>
+    </div>
+    <div abp="532" class="txt">
+     <a abp="533" href="javascript:void(0);" onclick="javascript:window.open('http://service.account.weibo.com/reportspam?rid=1707679453&amp;from=10106&amp;type=3&amp;url=%2F3242159070%2Ffollow&amp;bottomnav=1&amp;wvr=5', 'newwindow', 'height=700, width=550, toolbar =yes, menubar=no, scrollbars=yes, resizable=yes, location=no, status=no');">
+      举报
+     </a>
+    </div>
+   </div>
+   <div abp="534" class="con_left">
+    <div abp="535" class="name">
+     <a abp="536" class="W_f14 S_func1" href="http://weibo.com/u/1707679453" target="_blank" usercard="id=1707679453">
+      方大同
+     </a>
+     <a abp="537" href="http://verified.weibo.com/verify" target="_blank">
+      <i abp="538" class="W_ico16 approve" title="微博个人认证 ">
+      </i>
+     </a>
+     <a abp="539" action-type="ignore_list" href="http://vip.weibo.com/personal?from=main" target="_blank" title="微博会员">
+      <i abp="540" class="W_ico16 ico_member4">
+      </i>
+     </a>
+     <span abp="541" class="addr">
+      <em abp="542" class="W_ico12 male">
+      </em>
+      香港 其他
+     </span>
+    </div>
+    <div abp="543" class="connect">
+     关注
+     <a abp="544" href="http://weibo.com/1707679453/follow" target="_blank">
+      143
+     </a>
+     <i abp="545" class="W_vline S_line1_c">
+      |
+     </i>
+     粉丝
+     <a abp="546" href="http://weibo.com/1707679453/fans" target="_blank">
+      10544950
+     </a>
+     <i abp="547" class="W_vline S_line1_c">
+      |
+     </i>
+     微博
+     <a abp="548" href="http://weibo.com/u/1707679453" target="_blank">
+      2628
+     </a>
+    </div>
+    <div abp="549" class="info">
+     简介：經紀公司：乐傅有限公司 GNOF LIMITED（852)6200-9139 info@gnof.com.hk
+    </div>
+    <div abp="550" class="weibo">
+     <a abp="551" class="S_link2" href="http://weibo.com/u/1707679453">
+      给我一个纹。(9月3日 19:47)
+     </a>
+    </div>
+    <div abp="552" class="from W_textb">
+     通过
+     <a abp="553" class="S_link2" href="http://app.weibo.com/t/feed/6qkJ1g">
+      新手引导
+     </a>
+     关注
+    </div>
+   </div>
+  </div>
+ </li>
+ <li abp="554" action-data="uid=1195242865&amp;fnick=杨幂&amp;sex=f" action-type="itemClick" class="clearfix S_line1">
+  <div abp="555" class="left">
+   <div abp="556" class="face mbspace">
+    <a abp="557" href="http://weibo.com/yangmiblog" target="_blank" title="杨幂">
+     <img abp="558" alt="杨幂" height="50" src="http://tp2.sinaimg.cn/1195242865/50/5692327455/0" usercard="id=1195242865" width="50">
+     </img>
+    </a>
+   </div>
+   <div abp="559" class="stat mbspace">
+    <a abp="560" action-data="uid=1195242865&amp;nick=杨幂" action-type="webim.conversation" class="W_btn_c" href="javascript:;">
+     <span abp="561">
+      <i abp="562" class="W_chat_stat W_chat_stat_offline">
+      </i>
+      私信
+     </span>
+    </a>
+   </div>
+  </div>
+  <div abp="563" class="con">
+   <div abp="564" class="con_right">
+    <div abp="565" class="addbtn mbspace" node-type="followBtnBox">
+     <a abp="566" action-data="refer_sort=followlist&amp;refer_flag=followlist&amp;uid=1195242865&amp;fnick=杨幂&amp;f=1" action-type="follow" class="W_btn_b" href="javascript:;">
+      <span abp="567">
+       <em abp="568" class="addicon">
+        +
+       </em>
+       关注
+      </span>
+     </a>
+    </div>
+    <div abp="569" class="txt">
+     <a abp="570" href="javascript:void(0);" onclick="javascript:window.open('http://service.account.weibo.com/reportspam?rid=1195242865&amp;from=10106&amp;type=3&amp;url=%2F3242159070%2Ffollow&amp;bottomnav=1&amp;wvr=5', 'newwindow', 'height=700, width=550, toolbar =yes, menubar=no, scrollbars=yes, resizable=yes, location=no, status=no');">
+      举报
+     </a>
+    </div>
+   </div>
+   <div abp="571" class="con_left">
+    <div abp="572" class="name">
+     <a abp="573" class="W_f14 S_func1" href="http://weibo.com/yangmiblog" target="_blank" usercard="id=1195242865">
+      杨幂
+     </a>
+     <a abp="574" href="http://verified.weibo.com/verify" target="_blank">
+      <i abp="575" class="W_ico16 approve" title="微博个人认证 ">
+      </i>
+     </a>
+     <a abp="576" action-type="ignore_list" href="http://vip.weibo.com/personal?from=main" target="_blank" title="微博会员">
+      <i abp="577" class="W_ico16 ico_member5">
+      </i>
+     </a>
+     <span abp="578" class="addr">
+      <em abp="579" class="W_ico12 female">
+      </em>
+      北京
+     </span>
+    </div>
+    <div abp="580" class="connect">
+     关注
+     <a abp="581" href="http://weibo.com/1195242865/follow" target="_blank">
+      583
+     </a>
+     <i abp="582" class="W_vline S_line1_c">
+      |
+     </i>
+     粉丝
+     <a abp="583" href="http://weibo.com/1195242865/fans" target="_blank">
+      38180409
+     </a>
+     <i abp="584" class="W_vline S_line1_c">
+      |
+     </i>
+     微博
+     <a abp="585" href="http://weibo.com/yangmiblog" target="_blank">
+      2723
+     </a>
+    </div>
+    <div abp="586" class="info">
+     简介：这里有一只狐狸，幸福，感恩，知足，爱~＞＜
+    </div>
+    <div abp="587" class="weibo">
+     <a abp="588" class="S_link2" href="http://weibo.com/yangmiblog">
+      <img abp="589" alt="[心]" render="ext" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/hearta_org.gif" title="[心]" type="face">
+       <img abp="590" alt="[心]" render="ext" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/hearta_org.gif" title="[心]" type="face">
+        <img abp="591" alt="[心]" render="ext" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/hearta_org.gif" title="[心]" type="face">
+         <img abp="592" alt="[太阳]" render="ext" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e5/sun.gif" title="[太阳]" type="face">
+          <img abp="593" alt="[拜拜]" render="ext" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" title="[拜拜]" type="face">
+           (9月5日 15:11)
+          </img>
+         </img>
+        </img>
+       </img>
+      </img>
+     </a>
+    </div>
+    <div abp="594" class="from W_textb">
+     通过
+     <a abp="595" class="S_link2" href="http://app.weibo.com/t/feed/6qkJ1g">
+      新手引导
+     </a>
+     关注
+    </div>
+   </div>
+  </div>
+ </li>
+</ul>
